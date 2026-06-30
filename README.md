@@ -1,5 +1,9 @@
 # Unicity Network Bot
 
+🌐 **Website:** https://quest.unicity.network
+🔗 **Referral:** https://quest.unicity.network?ref=GDUS7NPO
+
+
 > Automated airdrop farming bot by **Layer Airdrop ID (LYID)**
 
 Automated bot for Unicity Network SphereQuests — proprietary wallet auth (BIP32 + custom ECDSA), 30 quests across 5 epochs, daily check-in, and GitHub automation.
