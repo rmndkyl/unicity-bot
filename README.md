@@ -44,7 +44,6 @@ Automated bot for Unicity Network SphereQuests — proprietary wallet auth (BIP3
    - **E-Wallet (ID):** DANA / GoPay / ShopeePay
    - **Bank Transfer (ID):** BCA / Seabank
    - **Crypto (USDT/SOL):** Contact for wallet address
-   - **Crypto (USDT):** Contact for wallet address
 4. Receive your license key + download link instantly via **@OG_LYID_bot**
 
 ## Installation
